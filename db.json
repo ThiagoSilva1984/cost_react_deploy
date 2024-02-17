@@ -1,0 +1,93 @@
+{
+  "projects": [
+    {
+      "name": "Projeto Atualizado",
+      "budget": "12000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 699,
+      "service": [
+        {
+          "name": "Projeto Atualizado",
+          "cost": "100",
+          "id": "e376f80a-0334-4a2a-8d5d-bf8a637155ea"
+        },
+        {
+          "name": "Projeto Atualizado",
+          "cost": "100",
+          "description": "faz isso aqui",
+          "id": "8bf18132-a572-4c1e-ac5c-50f7500d98b7"
+        },
+        {
+          "name": "Projeto 2",
+          "cost": "99",
+          "description": "faz isso aqui",
+          "id": "50f55c23-66cc-4671-b7fe-5d570d5ba07b"
+        },
+        {
+          "name": "Projeto 1",
+          "cost": "100",
+          "description": "faz isso aqui",
+          "id": "410a126c-68e3-44dc-878f-775a632ad7f8"
+        },
+        {
+          "name": "Projeto 3",
+          "cost": "100",
+          "description": "faz isso aqui",
+          "id": "c77829bc-c4dd-46b5-be4c-9b3895db611f"
+        },
+        {
+          "name": "Projeto 4",
+          "cost": "100",
+          "description": "faz isso aqui",
+          "id": "24cfc93b-5ae0-4a48-bdf6-acb92e838325"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Projeto Message",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 1000,
+      "service": [
+        {
+          "name": "Projeto Java",
+          "cost": "500",
+          "description": "Desenvolver APIs",
+          "id": "8ada9504-3ca7-4c48-a540-400cc45b90f8"
+        },
+        {
+          "name": "Projeto Java",
+          "cost": "500",
+          "description": "Desenvolver APIs",
+          "id": "97fd336c-3601-4c4e-9947-5b0e25539ee5"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
